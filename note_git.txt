@@ -1,0 +1,22 @@
+- tạo ct trên GitHub
+1. tạo 1 GitHub repository(folder)- nơi chuaws code.
+2. Clone project này:
+ 
+3.viết code
+-git status (kiểm tra trangj thái file)
+-git add .  // thiêm files
+-git commit -m "note" // tạo nội dung conmit
+-git push origin main
+
+- taoj project local và đẩy nên GitHub
+1. tạo 1 GitHub repo
+2. git init
+3. viết code
+	- git status
+	-git add .
+	- git commit -m ""
+	- git remote add origin https:
+	-git push origin master
+
+
+
